@@ -13,9 +13,16 @@
 
 ## What is ZeroBot.net?
 
-[ZeroBot.net](https://zero-bot.net) is a **bot hosting platform**: you rent a server, upload your bot, and keep it online 24/7 from a web panel. Pay and manage your servers in one place, and run Node.js, Python, Go or PHP bots without managing your own VPS.
+[ZeroBot.net](https://zero-bot.net) is a Bangladeshi **hosting service for Telegram bots, Discord bots, websites/APIs and Telegram Mini Apps**.
 
-We also build and publish the **open-source libraries and bots** we use ourselves.
+- **Pay in taka:** bKash, Nagad, Rocket and other methods through the EPS gateway (cards and bank transfer included). No international card needed.
+- **From ৳100 per month**, live seconds after the payment is verified.
+- **Node.js, Python, Go and Bun**, with live console, file manager, SFTP, environment variables and GitHub deploys.
+- **Honest limits:** no published uptime SLA, payments generally non-refundable, backups not part of the plan specs.
+
+Read the full, transparent breakdown (plans, payment flow, limits, who it suits): **[HOSTING.md](https://github.com/ZeroBot-net/.github/blob/main/HOSTING.md)**.
+
+বাংলায়: টেলিগ্রাম বট, ডিসকর্ড বট, ওয়েবসাইট ও মিনি অ্যাপ হোস্টিং, বিকাশ/নগদ/রকেটে পেমেন্ট, মাসে ৳১০০ থেকে।
 
 ## Open-source projects
 
