@@ -1,4 +1,4 @@
-<h1 align="center">ZeroBot.net</h1>
+<h1 align="center">Zero-Bot.net</h1>
 
 <p align="center">
   <b>Bot hosting and bot-building platform.</b><br>
@@ -11,9 +11,9 @@
   <a href="https://zerobot-net.github.io/tg-bot-api/">Docs</a>
 </p>
 
-## What is ZeroBot.net?
+## What is Zero-Bot.net?
 
-[ZeroBot.net](https://zero-bot.net) is a Bangladeshi **hosting service for Telegram bots, Discord bots, websites/APIs and Telegram Mini Apps**.
+[Zero-Bot.net](https://zero-bot.net) is a Bangladeshi **hosting service for Telegram bots, Discord bots, websites/APIs and Telegram Mini Apps**.
 
 - **Pay in taka:** bKash, Nagad, Rocket and other methods through the EPS gateway (cards and bank transfer included). No international card needed.
 - **From ৳100 per month**, live seconds after the payment is verified.
@@ -38,7 +38,7 @@ Read the full, transparent breakdown (plans, payment flow, limits, who it suits)
 const TelegramBot = require('@zero-bot.net/tg-bot-api');
 
 const bot = new TelegramBot('YOUR_BOT_TOKEN', { polling: true });
-bot.on('message', (msg) => bot.sendMessage(msg.chat.id, 'Hello from ZeroBot!'));
+bot.on('message', (msg) => bot.sendMessage(msg.chat.id, 'Hello from Zero-Bot.net!'));
 ```
 
 Then host it on [zero-bot.net](https://zero-bot.net).
